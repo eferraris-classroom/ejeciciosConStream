@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a1dfd8-0fe4-4410-bf39-4d67a00a5637" name="Changes" comment="" />
+    <list default="true" id="49a1dfd8-0fe4-4410-bf39-4d67a00a5637" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/undef/fie/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/undef/fie/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/undef/fie/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/undef/fie/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ar/edu/undef/fie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ar/edu/undef/fie/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +21,34 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2VLJiaLCF3jMrxsD9G8LRK1zg9f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,11 +60,77 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Hugo Cabaña/IdeaProjects/ejerciciosConStream",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Hugo Cabaña/IdeaProjects/ejerciciosConStream/src/main/java/ar/edu/undef/fie/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hugo Cabaña\IdeaProjects\ejerciciosConStream" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ar.edu.undef.fie.Ejercicio2" />
+      <module name="ejerciciosConStream.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.undef.fie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ar.edu.undef.fie.Ejercicio3" />
+      <module name="ejerciciosConStream.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.undef.fie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ar.edu.undef.fie.Main" />
+      <module name="ejerciciosConStream.main" />
+      <option name="PROGRAM_PARAMETERS" value="10 20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.edu.undef.fie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ejercicio2" />
+      <item itemvalue="Application.Ejercicio3" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejercicio3" />
+        <item itemvalue="Application.Ejercicio2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,16 +139,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694609619759</updated>
-      <workItem from="1694609620765" duration="5000" />
+      <workItem from="1694609620765" duration="1050000" />
+      <workItem from="1694612218897" duration="781000" />
+      <workItem from="1694700992707" duration="3741000" />
+      <workItem from="1694776811191" duration="3823000" />
+      <workItem from="1694789500472" duration="601000" />
+      <workItem from="1694984500788" duration="41000" />
+      <workItem from="1695216157253" duration="281000" />
+      <workItem from="1695216592465" duration="342000" />
+      <workItem from="1695647419132" duration="1480000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ar/edu/undef/fie/Main.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/main/java/ar/edu/undef/fie/Ejercicio2.java</url>
+          <line>5</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
